@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781598945572",
+    "project_id": "prjdevwrok",
+    "storage_bucket": "prjdevwrok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781598945572:android:ed4663726a3c9c37ecc3b1",
+        "android_client_info": {
+          "package_name": "com.prjdevwork_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781598945572-1lbm75cq9p928ovv4ee82lnbervodkve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELhMGQFA8vIqTS7wbbxCfaG6t975t90s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781598945572-1lbm75cq9p928ovv4ee82lnbervodkve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
